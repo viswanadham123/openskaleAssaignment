@@ -1,0 +1,14 @@
+.job-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: 0;
+    margin: 10px;
+    background-color: aliceblue;
+    padding: 5px;
+    width: 40vh;
+    border: 1px solid #000000;
+    border-radius:8px;
+    flex-grow:0 ;
+  }

@@ -1,0 +1,10 @@
+.company-profile{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+but1{
+    background-color: brown;
+}
